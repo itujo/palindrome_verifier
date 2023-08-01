@@ -2,11 +2,11 @@
   "name": "palindrome",
   "version": "1.0.0",
   "description": "",
-  "main": "src/main.ts",
+  "main": "src/app/main.ts",
   "scripts": {
     "test": "jest",
-    "start": "ts-node src/main.ts",
-    "dev": "ts-node-dev src/main.ts"
+    "start": "ts-node src/app/main.ts",
+    "dev": "ts-node-dev src/app/main.ts"
   },
   "keywords": [],
   "author": "",
